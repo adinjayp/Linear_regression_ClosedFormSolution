@@ -1,4 +1,4 @@
-# Closed form Linear Regression Implementation
+# Linear Regression Closed Form Solution Implementation
 
 This repository contains Python code for implementing linear regression from scratch and validating it against the `sklearn` library. Linear regression is a fundamental technique in statistical modeling for predicting a continuous variable based on one or more predictor variables.
 
